@@ -1,0 +1,405 @@
+[
+    {
+        "patterns": [
+            "What is a brain tumor?",
+            "Define brain tumor.",
+            "Can you explain what a brain tumor is?",
+            "What does it mean to have a brain tumor?",
+            "Description of a brain tumor.",
+            "What exactly is a tumor in the brain?",
+            "How do you define a brain tumor?"
+        ],
+        "response": "A brain tumor is a mass of unnecessary cells growing in the brain or central spine canal. Normal cells grow and divide to form new cells as the body needs them. When normal cells grow old or get damaged, they die, and new cells take their place. Sometimes, this process goes wrong. New cells form when the body doesn't need them, and old or damaged cells don't die as they should. The buildup of extra cells often forms a mass of tissue called a growth or tumor."
+    },
+    {
+        "patterns": [
+            "What are the two basic kinds of brain tumors?",
+            "Difference between primary and metastatic brain tumors.",
+            "What is a primary brain tumor?",
+            "What is a metastatic brain tumor?",
+            "Primary vs Secondary brain tumors.",
+            "Are there different types of brain tumors?",
+            "Distinguish between primary and secondary tumors."
+        ],
+        "response": "There are two basic kinds of brain tumors: Primary brain tumors and Metastatic (or secondary) brain tumors. Primary brain tumors start and tend to stay in the brain. Metastatic brain tumors begin as cancer elsewhere in the body (such as lung, breast, or colon cancer) and spread to the brain via the bloodstream."
+    },
+    {
+        "patterns": [
+            "What is the difference between benign and malignant brain tumors?",
+            "Are benign tumors dangerous?",
+            "What does benign mean?",
+            "What does malignant mean?",
+            "Is a benign tumor cancer?",
+            "Benign vs Malignant brain tumor.",
+            " Characteristics of benign and malignant tumors."
+        ],
+        "response": "Benign brain tumors are generally slow-growing, have distinct borders, and rarely spread. They are not considered cancer but can still be life-threatening if located in a vital area. Malignant brain tumors are usually rapid-growing, invasive, and life-threatening. They are often called brain cancer and can spread within the brain and spine, though they rarely spread to other parts of the body."
+    },
+    {
+        "patterns": [
+            "How are brain tumors graded?",
+            "What is the WHO grading system?",
+            "Explain tumor grades I, II, III, and IV.",
+            "What does a Grade 1 tumor mean?",
+            "What does a Grade 4 tumor mean?",
+            "Is Grade 1 better than Grade 4?",
+            "Tumor grading scale."
+        ],
+        "response": "Brain tumors are graded by the World Health Organization (WHO) from I to IV. Grade I tumors are the least malignant, slow-growing, and associated with long-term survival. Grade II tumors are relatively slow-growing but can recur as higher grades. Grade III tumors are malignant and actively reproducing abnormal cells. Grade IV tumors are the most malignant, rapid-growing, and aggressive (e.g., Glioblastoma)."
+    },
+    {
+        "patterns": [
+            "What are the general symptoms of a brain tumor?",
+            "How do I know if I have a brain tumor?",
+            "Common signs of a brain tumor.",
+            "What does a brain tumor feel like?",
+            "Early warning signs of brain cancer.",
+            "Does a headache mean I have a brain tumor?",
+            "Symptoms of increased intracranial pressure."
+        ],
+        "response": "Symptoms vary by location but commonly include headaches (often worse in the morning), nausea, vomiting, seizures, drowsiness, personality changes, weakness on one side of the body, vision changes, speech difficulties, and balance problems. Symptoms are often caused by increased pressure in the brain or the tumor interfering with local brain function."
+    },
+    {
+        "patterns": [
+            "What are the symptoms of a frontal lobe tumor?",
+            "How does a frontal lobe tumor affect behavior?",
+            "Signs of a tumor in the front of the brain.",
+            "Frontal lobe tumor personality changes.",
+            "Can a brain tumor cause mood swings?",
+            "Memory loss and frontal lobe tumors."
+        ],
+        "response": "Frontal lobe tumors can cause a lack of interest in surroundings, mood swings, personality changes, and changes in ethical standards. Patients may have difficulty with problem-solving, concentration, and short-term memory. It may also affect speech (planning words) and movement."
+    },
+    {
+        "patterns": [
+            "What are the symptoms of a parietal lobe tumor?",
+            "Parietal lobe tumor effects.",
+            "Numbness and brain tumors.",
+            "Difficulty with math or direction.",
+            "Confusion between left and right.",
+            "Can't recognize body parts.",
+            "Reading and writing difficulties due to tumor."
+        ],
+        "response": "Parietal lobe tumors may cause decreased sensation (touch, pressure), difficulty recognizing body position, and confusion between left and right. They can also affect language and arithmetic abilities (reading, writing, calculation)."
+    },
+    {
+        "patterns": [
+            "What symptoms do temporal lobe tumors cause?",
+            "Temporal lobe tumor signs.",
+            "Hearing voices or sounds.",
+            "Deja vu feelings.",
+            "Memory problems and temporal lobe.",
+            "Hallucinations and brain tumors.",
+            "Silent brain tumors."
+        ],
+        "response": "Temporal lobe tumors can be 'silent' until large. They may cause memory problems, a sense of déjà vu, time distortion, and difficulty understanding language or recognizing sounds. Auditory hallucinations (hearing things) can also occur."
+    },
+    {
+        "patterns": [
+            "What are the symptoms of an occipital lobe tumor?",
+            "Vision problems and brain tumors.",
+            "Occipital lobe tumor effects.",
+            "Blindness in one direction.",
+            "Visual hallucinations.",
+            "Seeing flashing lights.",
+            "Loss of vision."
+        ],
+        "response": "Occipital lobe tumors primarily disturb vision. Symptoms include double vision, loss of vision in one or both eyes, blind spots, and visual hallucinations (seeing things that aren't there)."
+    },
+    {
+        "patterns": [
+            "What are the symptoms of a cerebellar tumor?",
+            "Balance problems and brain tumors.",
+            "Cerebellum tumor signs.",
+            "Clumsiness and walking difficulty.",
+            "Tremors and coordination.",
+            "Dizziness and nausea.",
+            "Walking like being drunk."
+        ],
+        "response": "A tumor in the cerebellum can cause balance problems, poor coordination, clumsiness (walking difficulties), tremors, and dizziness. It may also cause nausea and vomiting."
+    },
+    {
+        "patterns": [
+            "What is an Astrocytoma?",
+            "Explain Astrocytoma.",
+            "Is Astrocytoma essentially cancer?",
+            "Grades of Astrocytoma.",
+            "What causes Astrocytoma?",
+            "Pilocytic Astrocytoma vs Anaplastic Astrocytoma."
+        ],
+        "response": "Astrocytomas arise from astrocytes (star-shaped supportive cells). They are the most common type of glioma. They range from Grade I (Pilocytic, benign, often cured by surgery) to Grade III (Anaplastic, malignant) and Grade IV (Glioblastoma, highly malignant)."
+    },
+    {
+        "patterns": [
+            "What is Glioblastoma?",
+            "What is GBM?",
+            "Is Glioblastoma curable?",
+            "Grade 4 Astrocytoma.",
+            "Most aggressive brain tumor.",
+            "Glioblastoma Multiforme.",
+            "Treatment for Glioblastoma."
+        ],
+        "response": "Glioblastoma (GBM), also known as Grade IV Astrocytoma, is the most aggressive and common primary malignant brain tumor in adults. It grows rapidly, invades nearby tissue, and contains dead cells (necrosis) and new blood vessels. Standard treatment involves surgery, radiation, and chemotherapy (typically Temozolomide)."
+    },
+    {
+        "patterns": [
+            "What is a Meningioma?",
+            "Are Meningiomas benign?",
+            "Tumor on the brain lining.",
+            "Meningioma treatment.",
+            "Is Meningioma common?",
+            "Parasaggital meningioma.",
+            "Convexity meningioma."
+        ],
+        "response": "Meningiomas arise from the meninges (the lining of the brain/spine). Most (Grade I) are benign, slow-growing, and curable with surgery. Some can be atypical (Grade II) or malignant (Grade III). They are more common in women and can often be cured if totally removed."
+    },
+    {
+        "patterns": [
+            "What is an Oligodendroglioma?",
+            "Tumor with fried egg cells.",
+            "Oligodendroglioma symptoms.",
+            "1p/19q co-deletion.",
+            "Treatment for Oligodendroglioma.",
+            "Oligodendrocyte tumor."
+        ],
+        "response": "Oligodendrogliomas arise from oligodendrocytes (insulation cells). They are often found in the frontal lobes and frequently cause seizures. They can be low-grade or anaplastic (malignant). Genetic testing often checks for 1p/19q chromosome loss, which indicates a better response to treatment."
+    },
+    {
+        "patterns": [
+            "What is an Ependymoma?",
+            "Tumor in the ventricles.",
+            "Ependymoma in children.",
+            "Myxopapillary ependymoma.",
+            "Ependymoma treatment.",
+            "Tumor lining the spinal cord."
+        ],
+        "response": "Ependymomas arise from cells lining the ventricles (fluid cavities) or spinal cord. They are more common in children. They can block cerebrospinal fluid causing hydrocephalus. Surgery is the primary treatment, often followed by radiation."
+    },
+    {
+        "patterns": [
+            "What is an Acoustic Neuroma?",
+            "Vestibular Schwannoma symptoms.",
+            "Hearing loss in one ear.",
+            "Tumor affecting balance nerve.",
+            "Benign tumor on hearing nerve.",
+            "Ringing in the ear."
+        ],
+        "response": "An Acoustic Neuroma (Vestibular Schwannoma) is a benign tumor on the 8th cranial nerve (vestibulocochlear nerve). Symptoms include hearing loss in one ear, ringing in the ear (tinnitus), and balance problems/dizziness."
+    },
+    {
+        "patterns": [
+            "What causes brain tumors?",
+            "Are brain tumors hereditary?",
+            "Risk factors for brain tumors.",
+            "Do cell phones cause brain tumors?",
+            "Can head injury cause a brain tumor?",
+            "Is it my fault I have a brain tumor?",
+            "Genetic factors for brain tumors."
+        ],
+        "response": "The exact cause of most brain tumors is unknown. The only consistently proven environmental risk factor is exposure to ionizing radiation. Genetic conditions (like Neurofibromatosis) account for a small percentage (5-10%). Studies on cell phones are inconclusive but generally show no consistent link. Brain tumors are generally not caused by anything you did or didn't do."
+    },
+    {
+        "patterns": [
+            "How is a brain tumor diagnosed?",
+            "Tests for brain tumor.",
+            "MRI vs CT for brain tumor.",
+            "What scans detect brain tumors?",
+            "Neurological exam for brain tumor.",
+            "Do I need a biopsy?"
+        ],
+        "response": "Diagnosis involves a neurological exam (checking vision, reflexes, balance), imaging scans (MRI is the standard, CT is also used), and ultimately a biopsy (examining a tissue sample) to confirm the tumor type and grade. Advanced scans like PET or MRS may also be used."
+    },
+    {
+        "patterns": [
+            "What is a biopsy?",
+            "Why do I need a biopsy?",
+            "Stereotactic biopsy.",
+            "Needle biopsy of brain.",
+            "How do they check tumor tissue?",
+            "Open vs closed biopsy."
+        ],
+        "response": "A biopsy is a surgical procedure to remove a small sample of the tumor tissue. A pathologist examines it under a microscope to determine the exact type and grade of the tumor, which guides treatment decisions. It can be done during surgery to remove the tumor or as a separate needle biopsy."
+    },
+    {
+        "patterns": [
+            "How are brain tumors treated?",
+            "Treatment options for brain cancer.",
+            "Surgery for brain tumor.",
+            "Radiation therapy for brain tumor.",
+            "Chemotherapy for brain tumor.",
+            "Can my tumor be removed?"
+        ],
+        "response": "Treatment depends on the tumor type, location, and grade. Standard options include surgery (to remove as much as possible), radiation therapy (to kill remaining cells), and chemotherapy (drugs like temozolomide). Targeted therapies, immunotherapy, and clinical trials are also options."
+    },
+    {
+        "patterns": [
+            "What are seizures?",
+            "Why do brain tumors cause seizures?",
+            "Epilepsy and brain tumors.",
+            "Types of seizures.",
+            "Grand mal seizure vs focal seizure.",
+            "What is an aura?",
+            "What happens during a seizure?"
+        ],
+        "response": "Seizures are episodes of abnormal electrical activity in the brain, common in brain tumor patients (25-40%). They can be partial (focal, affecting one area, causing twitching or sensation changes) or generalized (affecting the whole brain, causing loss of consciousness/convulsions). An 'aura' is a warning sign (smell, feeling) before a seizure."
+    },
+    {
+        "patterns": [
+            "What should I do if someone has a seizure?",
+            "First aid for seizures.",
+            "Helping someone having a seizure.",
+            "Seizure emergency.",
+            "Do I put something in their mouth during a seizure?",
+            "How to help during a convulsion."
+        ],
+        "response": "If someone has a seizure: stay calm, protect them from injury (move sharp objects), loosen tight clothing around the neck, and turn them on their side if possible to keep the airway open. DO NOT put anything in their mouth (they will not swallow their tongue). Call 911 if the seizure lasts >5 mins, is followed by another, or if they have trouble breathing."
+    },
+    {
+        "patterns": [
+            "What are pediatric brain tumors?",
+            "Brain tumors in children.",
+            "Common childhood brain tumors.",
+            "Medulloblastoma in kids.",
+            "Brain stem glioma in children.",
+            "Are brain tumors common in children?",
+            "Symptoms of brain tumor in child."
+        ],
+        "response": "Brain tumors are the most common solid tumor in children. Common types include Medulloblastoma (in the cerebellum), Astrocytoma, Ependymoma, and Brain Stem Gliomas. Symptoms often include morning headaches, vomiting, gait problems, and behavioral changes. Treatment considerations differ from adults to protect the developing brain."
+    },
+    {
+        "patterns": [
+            "What is Temozolomide?",
+            "Chemotherapy pill for brain tumor.",
+            "Treatment for Glioblastoma.",
+            "Temodar.",
+            "Side effects of Temozolomide.",
+            "Oral chemo for brain tumor."
+        ],
+        "response": "Temozolomide (Temodar) is an oral chemotherapy drug commonly used to treat Glioblastoma and Anaplastic Astrocytoma. It is often taken daily during radiation and then for several cycles afterwards. It works by interfering with cancer cell reproduction."
+    },
+    {
+        "patterns": [
+            "What is radiation therapy?",
+            "How does radiation work for brain tumors?",
+            "Gamma knife.",
+            "Stereotactic radiosurgery.",
+            "Proton therapy.",
+            "External beam radiation."
+        ],
+        "response": "Radiation therapy uses high-energy beams (X-rays, protons) to kill tumor cells. It can be fractionated (small doses over weeks) or focused (stereotactic radiosurgery/Gamma Knife) to target the tumor precisely. It is often used after surgery to kill remaining cells."
+    },
+    {
+        "patterns": [
+            "Tips for coping with a brain tumor diagnosis.",
+            "Emotional support for brain tumor.",
+            "Dealing with stress of brain tumor.",
+            "Support groups for brain tumor.",
+            "How to tell children about brain tumor.",
+            "Anxiety and depression with brain tumor."
+        ],
+        "response": "Coping involves acknowledging emotions (shock, anger, denial), seeking support from family/friends, and maintaining routines. It is helpful to ask questions, keeping a notebook, and connecting with support groups (like those from ABTA). When telling children, use age-appropriate language, be honest but reassuring, and maintain their routines."
+    },
+    {
+        "patterns": [
+            "Advice for caregivers of brain tumor patients.",
+            "Caregiver stress.",
+            "How to help a loved one with brain tumor.",
+            "Taking care of yourself as a caregiver.",
+            "Delegating responsibilities.",
+            "Respite care."
+        ],
+        "response": "Caregivers should allow themselves to ask questions, assess their own needs, delegate responsibilities, and accept assistance. It is crucial to take care of one's own health (sleep, eat, exercise) and take breaks (respite) to avoid burnout. Support groups for caregivers are also valuable."
+    },
+    {
+        "patterns": [
+            "What is a Medulloblastoma?",
+            "Medulloblastoma symptoms.",
+            "Tumor in the cerebellum of children.",
+            "Is Medulloblastoma malignant?",
+            "Treatment for Medulloblastoma."
+        ],
+        "response": "Medulloblastoma is a fast-growing, high-grade (malignant) tumor located in the cerebellum. It is most common in children. It frequently spreads via cerebrospinal fluid. Treatment involves surgery, radiation (for older children/adults), and chemotherapy."
+    },
+    {
+        "patterns": [
+            "What is a Brain Stem Glioma?",
+            "Tumor in the brain stem.",
+            "DIPG.",
+            "Symptoms of brain stem tumor.",
+            "Treatment for brain stem glioma."
+        ],
+        "response": "Brain stem gliomas arise in the brain stem (which controls vital functions). They are common in children. Many are diffuse and cannot be surgically removed. Diagnosis is often by MRI. Treatment usually involves radiation and sometimes chemotherapy. Prognosis depends on the location and type."
+    },
+    {
+        "patterns": [
+            "What is a Craniopharyngioma?",
+            "Tumor near pituitary gland.",
+            "Benign tumor causing hormone issues.",
+            "Craniopharyngioma symptoms.",
+            "Treatment for Craniopharyngioma."
+        ],
+        "response": "Craniopharyngioma is a benign tumor near the pituitary gland. It can cause vision problems and hormone imbalances (growth, water balance). Treatment usually involves surgery to remove the tumor, sometimes followed by radiation."
+    },
+    {
+        "patterns": [
+            "What is a Germ Cell Tumor?",
+            "Tumor in pineal region.",
+            "Germinoma.",
+            "Tumor markers for brain tumor.",
+            "Treatment for germ cell tumors."
+        ],
+        "response": "Germ cell tumors arise in the pineal or suprasellar regions, primarily in young people (11-30). They can spread via CSF. Markers like AFP and HCG in blood/CSF aid diagnosis. They are often treated with chemotherapy and radiation."
+    },
+    {
+        "patterns": [
+            "What is the pituitary gland?",
+            "Pituitary tumor symptoms.",
+            "Hormone problems and brain tumor.",
+            "Vision loss from pituitary tumor.",
+            "Function of pituitary gland."
+        ],
+        "response": "The pituitary gland is the 'master gland' controlling hormones. Tumors here (adenomas) can cause hormone imbalances (too much or too little) and vision loss (tunnel vision) by pressing on the optic chiasm. Treatment often involves surgery (transsphenoidal) or medication."
+    },
+    {
+        "patterns": [
+            "What is the brain stem?",
+            "Function of the brain stem.",
+            "What does the brain stem control?",
+            "Pons and Medulla."
+        ],
+        "response": "The brain stem is the bottom part of the brain connecting to the spinal cord. It controls vital life functions like breathing, heart rate, swallowing, and blood pressure. It also relays messages between the brain and body."
+    },
+    {
+        "patterns": [
+            "What is the cerebellum?",
+            "Function of the cerebellum.",
+            "Role of cerebellum."
+        ],
+        "response": "The cerebellum is located at the back of the brain. It controls balance, coordination, and fine motor skills."
+    },
+    {
+        "patterns": [
+            "What is the cerebrum?",
+            "Lobes of the brain.",
+            "Function of cerebrum."
+        ],
+        "response": "The cerebrum is the largest part of the brain, divided into two hemispheres and four lobes (frontal, parietal, temporal, occipital). It controls voluntary movement, speech, intelligence, memory, emotion, and sensory processing."
+    },
+    {
+        "patterns": [
+            "What are the meninges?",
+            "Lining of the brain.",
+            "Dura mater, arachnoid, pia mater."
+        ],
+        "response": "The meninges are the three layers of protective tissue covering the brain and spinal cord: the Dura mater (outer), Arachnoid (middle), and Pia mater (inner)."
+    },
+    {
+        "patterns": [
+            "What is cerebrospinal fluid?",
+            "CSF function.",
+            "Fluid in the brain.",
+            "Hydrocephalus."
+        ],
+        "response": "Cerebrospinal fluid (CSF) is a clear fluid that bathes and cushions the brain and spinal cord. It is produced in the ventricles. Blockage of CSF flow can cause hydrocephalus (water on the brain), leading to increased pressure."
+    }
+]

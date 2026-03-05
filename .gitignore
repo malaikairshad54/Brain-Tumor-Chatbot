@@ -1,0 +1,62 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# ===========================
+# Virtual Environments
+# ===========================
+.venv/
+venv/
+env/
+ENV/
+
+# ===========================
+# Flask / App specific
+# ===========================
+instance/
+*.sqlite3
+
+# Chat history (user-generated, should not be committed)
+chats/
+
+# ===========================
+# FAISS & Generated Artifacts
+# ===========================
+# These are large binary/generated files — regenerate via build_embeddings.py
+brain_index.faiss
+texts.json
+
+# ===========================
+# IDE & Editor
+# ===========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.history/
+
+# ===========================
+# OS Files
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================
+# Environment Variables
+# ===========================
+.env
+.env.local
+*.env
+
+# ===========================
+# Logs
+# ===========================
+*.log
+logs/
