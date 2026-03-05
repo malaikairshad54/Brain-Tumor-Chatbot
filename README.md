@@ -16,7 +16,6 @@ A **Retrieval-Augmented Generation (RAG)** powered chatbot specifically designed
 - [Dataset](#-dataset)
 - [Disclaimer](#-disclaimer)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -211,10 +210,5 @@ Please ensure your code follows existing conventions and all edge cases are hand
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 *Built with ❤️ for medical education and AI learning.*
